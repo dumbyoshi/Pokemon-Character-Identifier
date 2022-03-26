@@ -1,0 +1,7 @@
+{
+"ENDPOINT_URL" :"172.28.128.1:9000",
+"ACCESS_KEY" :"minio",
+"SECRET_KEY" :"minio123",
+"SOURCE_BUCKET":"sourcedata",
+"DESTINATION_BUCKET":"destinationdata"
+}

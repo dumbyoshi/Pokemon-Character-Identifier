@@ -1,0 +1,6 @@
+boto3
+keras
+minio
+tensorflow
+Pillow
+opencv-python-headless
